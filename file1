@@ -1,5 +1,6 @@
-this is file one
-
-this is second line of branch1
-this is second line of branch1
-
+git init 
+git add 
+git commit -m file name 
+git rm --cached filename 
+git add . for all file 
+git restore filenames
